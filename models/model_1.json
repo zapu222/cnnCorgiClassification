@@ -1,0 +1,9 @@
+{
+  "train_path": "C:\\Users\\Zack's PC\\Documents\\UK Courses\\CS 460\\Assignment 5\\data\\training_data",
+  "test_path": "C:\\Users\\Zack's PC\\Documents\\UK Courses\\CS 460\\Assignment 5\\data\\testing_data",
+  "save_path": "C:\\Users\\Zack's PC\\Documents\\UK Courses\\CS 460\\Assignment 5\\models\\model_1.pth",
+  "augment": true,
+  "lr": 0.05,
+  "epochs": 150,
+  "device": "cuda"
+}

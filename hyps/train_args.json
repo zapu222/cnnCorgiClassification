@@ -1,0 +1,9 @@
+{
+  "train_path": "...\\data\\training_data",
+  "test_path": "...\\Assignment 5\\data\\testing_data",
+  "save_path": "...\\models\\model_5.pth",
+  "augment": true,
+  "lr": 0.05,
+  "epochs": 150,
+  "device": "cuda"
+}
